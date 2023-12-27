@@ -207,6 +207,7 @@ void init(vector<student> &stdVec,vector<teacher> &ftdvec)
     else
     {
         break;
+
     }
         }
 
